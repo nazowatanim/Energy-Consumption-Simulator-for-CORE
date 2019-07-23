@@ -6,5 +6,10 @@ then run energy_simu.py
 Conceptual Model
 ![model](https://user-images.githubusercontent.com/45766557/61692983-00ccca00-ad2f-11e9-9b18-efd9502070cb.jpg)
 
+Application deployment in CORE as a service
+![energy_consumption_service](https://user-images.githubusercontent.com/45766557/61693471-e8a97a80-ad2f-11e9-9a46-3d235921aebe.png)
+
+
+
 
 
