@@ -10,6 +10,13 @@ Application deployment in CORE as a service
 ![energy_consumption_service](https://user-images.githubusercontent.com/45766557/61693471-e8a97a80-ad2f-11e9-9a46-3d235921aebe.png)
 
 
+Changing Network Route at different battery level with application
+
+![change route](https://user-images.githubusercontent.com/45766557/61693568-1abadc80-ad30-11e9-9e04-7bccfe7040f4.png)
+
+
+
+
 
 
 
