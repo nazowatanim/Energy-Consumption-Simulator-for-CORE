@@ -11,10 +11,14 @@ Application deployment in CORE as a service
 
 
 Changing Network Route at different battery level with application
-
 ![change route](https://user-images.githubusercontent.com/45766557/61693568-1abadc80-ad30-11e9-9e04-7bccfe7040f4.png)
 
 ![chnage route at different](https://user-images.githubusercontent.com/45766557/61693666-46d65d80-ad30-11e9-9eea-460b0f7a0cfa.png)
+
+
+Emulatng Current Battery and Energy COnsumption at different nodes
+![current battery](https://user-images.githubusercontent.com/45766557/61693816-8309be00-ad30-11e9-8025-4e7974ccb9e4.png)
+
 
 
 
